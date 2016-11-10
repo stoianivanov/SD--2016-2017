@@ -40,3 +40,16 @@
 	sort
 	reverse
 ```
+
+Задача 2 :
+Да се имплементира класът Priority Queue, който трябва да се придържа към интерфейса от този линк: http://www.cplusplus.com/reference/queue/priority_queue/
+
+Вашият Priority Queue трябва да бъде динамична структура и трябва да съдържа следните методи от линка:
+|Name | Description|
+|----|-----------|
+|(constructor) |Construct priority queue|
+|empty |Test whether container is empty |
+|size |Return size |
+|top |Access top element|
+|push |Insert element| 
+|pop | Remove top element |
