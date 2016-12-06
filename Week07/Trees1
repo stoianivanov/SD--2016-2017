@@ -9,4 +9,4 @@
   -push();
   -pop();
   -top();
-  -empty();
+  -empty().
